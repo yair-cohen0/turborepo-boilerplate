@@ -8,8 +8,7 @@
         "watch": "ng build --watch --configuration development",
         "test": "ng test",
         "lint": "eslint \"src/app/**/*.{ts, html}\" --fix",
-        "format": "prettier --write \"src/app/**/*.{ts, html,scss}\"",
-        "lint-staged": "lint-staged"
+        "format": "prettier --write \"src/app/**/*.{ts, html,scss}\""
     },
     "private": true,
     "dependencies": {
@@ -40,7 +39,6 @@
         "karma-coverage": "~2.2.0",
         "karma-jasmine": "~5.1.0",
         "karma-jasmine-html-reporter": "~2.0.0",
-        "lint-staged": "^14.0.1",
         "tsconfig": "*",
         "typescript": "~5.0.2"
     }
