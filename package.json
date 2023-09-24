@@ -13,7 +13,8 @@
         "lint-staged": "^14.0.1",
         "prettier": "^3.0.3",
         "tsconfig": "*",
-        "turbo": "latest"
+        "turbo": "latest",
+        "typescript": "^5.2.2"
     },
     "name": "turborepo-boilerplate",
     "packageManager": "npm@9.1.2",
