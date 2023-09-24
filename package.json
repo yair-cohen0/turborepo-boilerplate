@@ -13,7 +13,7 @@
         "prettier": "^3.0.3",
         "tsconfig": "*",
         "turbo": "latest",
-        "typescript": "^5.2.2"
+        "typescript": "~5.1.0"
     },
     "name": "turborepo-boilerplate",
     "packageManager": "npm@9.1.2",
