@@ -13,7 +13,6 @@
             "cache": false,
             "persistent": true
         },
-        "format": {},
-        "lint-staged": {}
+        "format": {}
     }
 }
