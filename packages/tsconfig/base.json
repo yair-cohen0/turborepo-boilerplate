@@ -4,7 +4,8 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "sourceMap": true,
-        "baseUrl": "./"
+        "baseUrl": "./",
+        "skipLibCheck": true
     },
     "exclude": ["node_modules"]
 }
