@@ -5,7 +5,6 @@
         "start": "turbo run start",
         "lint": "turbo run lint",
         "format": "turbo run format",
-        "pre-commit": "turbo run pre-commit",
         "prepare": "husky install"
     },
     "devDependencies": {

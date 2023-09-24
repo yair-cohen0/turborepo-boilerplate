@@ -9,7 +9,7 @@
         "test": "ng test",
         "lint": "eslint \"src/app/**/*.{ts, html}\" --fix",
         "format": "prettier --write \"src/app/**/*.{ts, html,scss}\"",
-        "pre-commit": "lint-staged"
+        "lint-staged": "lint-staged"
     },
     "private": true,
     "dependencies": {
