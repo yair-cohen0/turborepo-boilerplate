@@ -12,6 +12,8 @@
         "start": {
             "cache": false,
             "persistent": true
-        }
+        },
+        "format": {},
+        "pre-commit": {}
     }
 }

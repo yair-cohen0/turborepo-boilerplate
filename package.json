@@ -4,10 +4,13 @@
         "build": "turbo run build",
         "start": "turbo run start",
         "lint": "turbo run lint",
-        "format": "prettier --write \"**/*.{ts,html,json,md}\""
+        "format": "turbo run format",
+        "pre-commit": "turbo run pre-commit",
+        "prepare": "husky install"
     },
     "devDependencies": {
         "eslint": "^8.48.0",
+        "husky": "^8.0.3",
         "prettier": "^3.0.3",
         "tsconfig": "*",
         "turbo": "latest"
