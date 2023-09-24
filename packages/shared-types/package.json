@@ -1,0 +1,8 @@
+{
+  "name": "shared-types",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Typescript types shared between the project",
+  "author": "",
+  "license": "MIT"
+}
