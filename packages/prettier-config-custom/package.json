@@ -1,12 +1,12 @@
 {
-  "name": "prettier-config-custom",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Common Prettier configuration",
-  "main": ".prettierrc.json",
-  "author": "",
-  "license": "MIT",
-  "peerDependencies": {
-    "prettier": "^2 || ^3"
-  }
+    "name": "prettier-config-custom",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Common Prettier configuration",
+    "main": ".prettierrc.json",
+    "author": "",
+    "license": "MIT",
+    "peerDependencies": {
+        "prettier": "^3.0.3"
+    }
 }
